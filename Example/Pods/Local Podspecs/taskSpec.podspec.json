@@ -1,0 +1,22 @@
+{
+  "name": "taskSpec",
+  "version": "0.1.0",
+  "summary": "A short description of taskSpec.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1030725645@qq.com/taskSpec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1030725645@qq.com": "mouyu@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/1030725645@qq.com/taskSpec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "taskSpec/Classes/**/*"
+}

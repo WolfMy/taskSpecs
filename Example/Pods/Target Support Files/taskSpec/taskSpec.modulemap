@@ -1,0 +1,6 @@
+framework module taskSpec {
+  umbrella header "taskSpec-umbrella.h"
+
+  export *
+  module * { export * }
+}

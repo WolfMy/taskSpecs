@@ -1,0 +1,6 @@
+framework module Pods_taskSpec_Example {
+  umbrella header "Pods-taskSpec_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
